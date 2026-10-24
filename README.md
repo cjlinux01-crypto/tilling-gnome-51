@@ -7,7 +7,7 @@ Com ele, o seu sistema ganha **auto-tiling automático** (as janelas se organiza
 
 ---
 
-## 🚀 Passo a Passo de Instalação
+##  Passo a Passo de Instalação
 
 ### 1. Baixar o arquivo
 Clique no arquivo **`solustilling@mendes.local.shell-extension.zip`** disponível acima neste repositório e clique no botão **Download** (ícone de seta para baixo no canto direito) para salvá-lo na sua pasta de **Downloads**.
